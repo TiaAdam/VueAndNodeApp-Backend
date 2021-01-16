@@ -1,2 +1,3 @@
-# VueAndNodeApp-Backend
-Building Vue and Node Apps with Authentication (Lynda Courses)
+Building Vue and Node Apps with Authentication (Lynda Course)
+
+#### This folder containes Backend files for Vue and Node application which allows users to Register, Login and write Messages - also view previously written Messages by other users. 
